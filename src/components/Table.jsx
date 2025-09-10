@@ -57,6 +57,7 @@ export default function UserTable() {
 
   return (
     <div>
+      <h1>List of Users</h1>
       <input
         type="text"
         value={search}
